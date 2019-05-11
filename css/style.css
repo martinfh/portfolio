@@ -10,7 +10,7 @@
 ** Set up the experiment
 */
 html {
-  background-image:url(img-noise-361x370-2.png);
+  background-image:url( http://api.thumbr.it/whitenoise-1500x2000.png?background=fafafaff&noise=154d3f&density=5&opacity=52);
   height: 100%;
 }
 
@@ -106,7 +106,7 @@ p {
 }
 
 .contact-info {
-  
+  padding: 30,30,30,30;
 }
 
 
