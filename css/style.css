@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  color: #FFFFFF;
+  color: black;
   display: flex;
 }
 
@@ -25,7 +25,7 @@ body {
 .Words {
   margin: 0 auto;
   padding: 80px 0;
-  margin-top: 300px;
+  margin-top: 150px;
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-size: 50px;
   font-weight: 900;
