@@ -75,6 +75,14 @@ body {
   left: 203px;
 }
 
+a {
+  color: grey;
+  text-decoration: none;
+}
+a :hover {
+  text-decoration: line-through;
+}
+
 /*
 ** Fine-grained text styles
 */
@@ -96,3 +104,10 @@ p {
   -webkit-transform: translate3d(0, -50px, 0);
           transform: translate3d(0, -50px, 0);
 }
+
+.contact-info {
+  
+}
+
+
+
