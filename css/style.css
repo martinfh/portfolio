@@ -120,7 +120,7 @@ p {
 }
 
 .text-block {
-  position: absolute;
+  position: relative;
   padding: 20,20,20,20;
   margin-right: 100px;
   font-family: 'Cormorant Garamond', serif;
@@ -128,7 +128,7 @@ p {
 }
 
 .project {
-  position: absolute;
+  position: relative;
   width: 1500px;
   margin-right: 100px;
   margin-top: 50px;
