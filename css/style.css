@@ -26,6 +26,7 @@ nav {
   height: 100px;
   font-size: 20px;
   padding: 40,40,40,40;
+  position: absolute;
 }
 /*
 ** Apply styles to the parent element
