@@ -15,6 +15,7 @@ html {
 }
 
 body {
+  width: auto;
   font-family: 'Cormorant Garamond', serif;
   color: black;
   display: flex;
@@ -111,7 +112,17 @@ p {
 }
 
 .text-block {
-  
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 12;
 }
+
+.project {
+  width: 100%;
+}
+
+
+
+
+
 
 
