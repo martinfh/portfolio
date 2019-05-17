@@ -126,6 +126,14 @@ p {
   font-family: 'Cormorant Garamond', serif;
   font-size: 15;
 }
+.text-block-about {
+  position: relative;
+  padding: 20,20,20,20;
+  margin-right: 100px;
+  margin-top: 200px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 15;
+}
 
 .project {
   position: relative;
