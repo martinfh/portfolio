@@ -25,6 +25,7 @@ body {
 ** Apply styles to the parent element
 */
 .Words {
+  text-shadow: 2px 3px 7px #B7CE95;
   margin: 0 auto;
   padding: 80px 0;
   margin-top: 150px;
